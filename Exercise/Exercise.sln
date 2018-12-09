@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiTube - 04 - 28.10.2018", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiTube -2- 04 - 28.10.2018", "MiTube -2- 04 - 28.10.2018\MiTube -2- 04 - 28.10.2018.csproj", "{DEE145BA-D4C4-4F65-AF8D-E8AF477EEFA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowwite - with class", "Snowwite\Snowwite - with class.csproj", "{B007520E-29AE-4849-B2EA-1B786852205E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowwite - with dictionary", "Snowwite - with dictionary\Snowwite - with dictionary.csproj", "{E1426B95-03FE-4827-8813-20E5958C95BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DEE145BA-D4C4-4F65-AF8D-E8AF477EEFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE145BA-D4C4-4F65-AF8D-E8AF477EEFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE145BA-D4C4-4F65-AF8D-E8AF477EEFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B007520E-29AE-4849-B2EA-1B786852205E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B007520E-29AE-4849-B2EA-1B786852205E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B007520E-29AE-4849-B2EA-1B786852205E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B007520E-29AE-4849-B2EA-1B786852205E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1426B95-03FE-4827-8813-20E5958C95BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1426B95-03FE-4827-8813-20E5958C95BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1426B95-03FE-4827-8813-20E5958C95BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1426B95-03FE-4827-8813-20E5958C95BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

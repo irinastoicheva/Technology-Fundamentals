@@ -60,12 +60,11 @@
             {
                 foreach (var item in nameLikes.OrderByDescending(x => x.Value))
                 {
-                    Console.Write($"{item.Key} - ");
                     foreach (var kvp in nameViews)
                     {
                         if (kvp.Key == item.Key)
                         {
-                            Console.WriteLine($"{kvp.Value} views - {item.Value} likes");
+                            Console.WriteLine($"{item.Key} - {kvp.Value} views - {item.Value} likes");
                         }
                     }
                 }
@@ -74,12 +73,11 @@
             {
                 foreach (var item in nameViews.OrderByDescending(x => x.Value))
                 {
-                    Console.Write($"{item.Key} - ");
                     foreach (var kvp in nameLikes)
                     {
                         if (kvp.Key == item.Key)
                         {
-                            Console.WriteLine($"{item.Value} views - {kvp.Value} likes");
+                            Console.WriteLine($"{item.Key} - {item.Value} views - {kvp.Value} likes");
                         }
                     }
                 }

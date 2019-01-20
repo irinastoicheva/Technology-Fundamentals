@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp2.0\04. Caesar Cipher.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp2.0\04. Caesar Cipher.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp2.0\04. Caesar Cipher.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp2.0\04. Caesar Cipher.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp2.0\04. Caesar Cipher.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp2.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp2.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp2.0\04. Caesar Cipher.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp2.0\04. Caesar Cipher.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp2.0\04. Caesar Cipher.pdb

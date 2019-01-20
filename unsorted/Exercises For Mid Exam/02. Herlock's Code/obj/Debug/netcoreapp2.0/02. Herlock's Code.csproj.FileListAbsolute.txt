@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\bin\Debug\netcoreapp2.0\02. Herlock's Code.deps.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\bin\Debug\netcoreapp2.0\02. Herlock's Code.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\bin\Debug\netcoreapp2.0\02. Herlock's Code.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\bin\Debug\netcoreapp2.0\02. Herlock's Code.dll
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\bin\Debug\netcoreapp2.0\02. Herlock's Code.pdb
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\obj\Debug\netcoreapp2.0\02. Herlock's Code.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\obj\Debug\netcoreapp2.0\02. Herlock's Code.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\obj\Debug\netcoreapp2.0\02. Herlock's Code.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\obj\Debug\netcoreapp2.0\02. Herlock's Code.dll
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Herlock's Code\obj\Debug\netcoreapp2.0\02. Herlock's Code.pdb

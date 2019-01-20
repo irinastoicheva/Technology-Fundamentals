@@ -1,0 +1,6 @@
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\5. Word in Plural\bin\Debug\_5.Word_in_Plural.exe.config
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\5. Word in Plural\bin\Debug\_5.Word_in_Plural.exe
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\5. Word in Plural\bin\Debug\_5.Word_in_Plural.pdb
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\5. Word in Plural\obj\Debug\5. Word in Plural.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\5. Word in Plural\obj\Debug\_5.Word_in_Plural.exe
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\5. Word in Plural\obj\Debug\_5.Word_in_Plural.pdb

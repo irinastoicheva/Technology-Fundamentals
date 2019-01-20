@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.deps.json
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.dll
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.0\01. Train.pdb
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.dll
+D:\softuni\Programming Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.0\01. Train.pdb

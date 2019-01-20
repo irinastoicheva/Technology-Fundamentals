@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.deps.json
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.dll
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\bin\Debug\netcoreapp2.0\08. Magic Sum.pdb
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.dll
+D:\softuni\Programming Fundamentals\Arrays - Exercise\08. Magic Sum\obj\Debug\netcoreapp2.0\08. Magic Sum.pdb

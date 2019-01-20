@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.deps.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.dll
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\bin\Debug\netcoreapp2.0\03. Legendary Farming.pdb
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.dll
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\03. Legendary Farming\obj\Debug\netcoreapp2.0\03. Legendary Farming.pdb

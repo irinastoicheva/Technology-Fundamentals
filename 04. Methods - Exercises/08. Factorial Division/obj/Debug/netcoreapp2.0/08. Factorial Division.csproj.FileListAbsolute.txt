@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.0\08. Factorial Division.deps.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.0\08. Factorial Division.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.0\08. Factorial Division.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.0\08. Factorial Division.dll
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.0\08. Factorial Division.pdb
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.0\08. Factorial Division.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.0\08. Factorial Division.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.0\08. Factorial Division.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.0\08. Factorial Division.dll
+D:\softuni\Programming Fundamentals\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.0\08. Factorial Division.pdb

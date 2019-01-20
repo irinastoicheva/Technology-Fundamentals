@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.deps.json
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.dll
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\bin\Debug\netcoreapp2.0\01. Integer Operations.pdb
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.dll
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\01. Integer Operations\obj\Debug\netcoreapp2.0\01. Integer Operations.pdb

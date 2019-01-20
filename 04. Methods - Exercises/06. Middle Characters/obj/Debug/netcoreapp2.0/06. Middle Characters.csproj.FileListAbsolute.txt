@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.deps.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.dll
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\bin\Debug\netcoreapp2.0\06. Middle Characters.pdb
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.dll
+D:\softuni\Programming Fundamentals\Methods - Exercises\06. Middle Characters\obj\Debug\netcoreapp2.0\06. Middle Characters.pdb

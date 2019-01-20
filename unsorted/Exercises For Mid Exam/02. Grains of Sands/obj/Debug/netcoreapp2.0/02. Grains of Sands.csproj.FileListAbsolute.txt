@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.deps.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.dll
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.pdb
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.dll
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.pdb

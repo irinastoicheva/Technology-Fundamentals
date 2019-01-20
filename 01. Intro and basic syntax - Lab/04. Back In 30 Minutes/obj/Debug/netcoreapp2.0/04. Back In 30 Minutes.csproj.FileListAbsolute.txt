@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.deps.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.dll
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp2.0\04. Back In 30 Minutes.pdb
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.dll
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp2.0\04. Back In 30 Minutes.pdb

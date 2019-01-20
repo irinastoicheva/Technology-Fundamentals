@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.deps.json
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.dll
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\bin\Debug\netcoreapp2.0\09. Poke Mon.pdb
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.dll
+D:\softuni\Programming Fundamentals\Data Types and Variables - Exercise\09. Poke Mon\obj\Debug\netcoreapp2.0\09. Poke Mon.pdb

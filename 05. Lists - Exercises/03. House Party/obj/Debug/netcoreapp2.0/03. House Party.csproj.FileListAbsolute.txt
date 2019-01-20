@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.deps.json
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.dll
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\bin\Debug\netcoreapp2.0\03. House Party.pdb
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.dll
+D:\softuni\Programming Fundamentals\Lists - Exercises1\03. House Party\obj\Debug\netcoreapp2.0\03. House Party.pdb

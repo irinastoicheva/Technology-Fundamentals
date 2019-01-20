@@ -1,0 +1,5 @@
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\3. Back in 30 Minutes\bin\Debug\_3.Back_in_30_Minutes.exe.config
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\3. Back in 30 Minutes\bin\Debug\_3.Back_in_30_Minutes.exe
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\3. Back in 30 Minutes\bin\Debug\_3.Back_in_30_Minutes.pdb
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\3. Back in 30 Minutes\obj\Debug\_3.Back_in_30_Minutes.exe
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\3. Back in 30 Minutes\obj\Debug\_3.Back_in_30_Minutes.pdb

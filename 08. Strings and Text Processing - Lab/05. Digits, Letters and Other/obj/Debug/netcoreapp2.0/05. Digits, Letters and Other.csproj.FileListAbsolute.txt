@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.0\05. Digits, Letters and Other.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.0\05. Digits, Letters and Other.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.0\05. Digits, Letters and Other.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.0\05. Digits, Letters and Other.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.0\05. Digits, Letters and Other.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.0\05. Digits, Letters and Other.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.0\05. Digits, Letters and Other.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.0\05. Digits, Letters and Other.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.0\05. Digits, Letters and Other.pdb

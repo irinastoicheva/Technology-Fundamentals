@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.0\03. Substring.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.0\03. Substring.pdb

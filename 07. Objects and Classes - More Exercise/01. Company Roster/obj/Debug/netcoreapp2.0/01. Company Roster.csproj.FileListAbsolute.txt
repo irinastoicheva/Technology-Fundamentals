@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.0\01. Company Roster.deps.json
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.0\01. Company Roster.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.0\01. Company Roster.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.0\01. Company Roster.dll
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.0\01. Company Roster.pdb
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.0\01. Company Roster.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.0\01. Company Roster.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.0\01. Company Roster.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.0\01. Company Roster.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.0\01. Company Roster.dll
+D:\softuni\Programming Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.0\01. Company Roster.pdb

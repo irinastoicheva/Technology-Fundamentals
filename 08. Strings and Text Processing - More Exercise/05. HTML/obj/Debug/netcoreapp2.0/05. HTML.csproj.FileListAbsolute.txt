@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp2.0\05. HTML.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp2.0\05. HTML.pdb

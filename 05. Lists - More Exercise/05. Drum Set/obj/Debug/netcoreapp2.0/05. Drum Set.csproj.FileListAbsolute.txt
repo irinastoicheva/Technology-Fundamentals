@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.deps.json
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.dll
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\bin\Debug\netcoreapp2.0\05. Drum Set.pdb
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.dll
+D:\softuni\Programming Fundamentals\Lists - More Exercise\05. Drum Set\obj\Debug\netcoreapp2.0\05. Drum Set.pdb

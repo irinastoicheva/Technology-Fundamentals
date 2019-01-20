@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.0\07. Store Boxes.deps.json
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.0\07. Store Boxes.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.0\07. Store Boxes.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.0\07. Store Boxes.dll
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.0\07. Store Boxes.pdb
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.0\07. Store Boxes.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.0\07. Store Boxes.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.0\07. Store Boxes.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.0\07. Store Boxes.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.0\07. Store Boxes.dll
+D:\softuni\Programming Fundamentals\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.0\07. Store Boxes.pdb

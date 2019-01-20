@@ -1,0 +1,6 @@
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\12. Number Checker\bin\Debug\_12.Number_Checker.exe.config
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\12. Number Checker\bin\Debug\_12.Number_Checker.exe
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\12. Number Checker\bin\Debug\_12.Number_Checker.pdb
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\12. Number Checker\obj\Debug\12. Number Checker.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\12. Number Checker\obj\Debug\_12.Number_Checker.exe
+D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\12. Number Checker\obj\Debug\_12.Number_Checker.pdb

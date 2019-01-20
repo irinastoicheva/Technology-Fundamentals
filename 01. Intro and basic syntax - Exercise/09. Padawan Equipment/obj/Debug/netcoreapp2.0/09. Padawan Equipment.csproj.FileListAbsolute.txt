@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.deps.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.dll
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\netcoreapp2.0\09. Padawan Equipment.pdb
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.dll
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\netcoreapp2.0\09. Padawan Equipment.pdb

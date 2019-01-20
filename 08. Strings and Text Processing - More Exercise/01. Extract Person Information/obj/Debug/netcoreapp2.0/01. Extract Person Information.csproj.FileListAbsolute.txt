@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp2.0\01. Extract Person Information.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp2.0\01. Extract Person Information.pdb

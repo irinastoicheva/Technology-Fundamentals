@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\bin\Debug\netcoreapp2.1\ExercisePetko.deps.json
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\bin\Debug\netcoreapp2.1\ExercisePetko.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\bin\Debug\netcoreapp2.1\ExercisePetko.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\bin\Debug\netcoreapp2.1\ExercisePetko.dll
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\bin\Debug\netcoreapp2.1\ExercisePetko.pdb
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\obj\Debug\netcoreapp2.1\ExercisePetko.csprojAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\obj\Debug\netcoreapp2.1\ExercisePetko.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\obj\Debug\netcoreapp2.1\ExercisePetko.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\obj\Debug\netcoreapp2.1\ExercisePetko.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\obj\Debug\netcoreapp2.1\ExercisePetko.dll
+D:\softuni\Programming Fundamentals\Exercise\ExercisePetko\obj\Debug\netcoreapp2.1\ExercisePetko.pdb

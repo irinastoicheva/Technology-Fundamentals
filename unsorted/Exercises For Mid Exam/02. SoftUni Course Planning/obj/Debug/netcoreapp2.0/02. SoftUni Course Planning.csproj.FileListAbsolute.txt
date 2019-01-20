@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.deps.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.dll
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.pdb
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.dll
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.pdb

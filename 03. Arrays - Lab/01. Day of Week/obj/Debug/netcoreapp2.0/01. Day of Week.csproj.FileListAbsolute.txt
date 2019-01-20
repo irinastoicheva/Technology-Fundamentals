@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.deps.json
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.dll
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp2.0\01. Day of Week.pdb
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.dll
+D:\softuni\Programming Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp2.0\01. Day of Week.pdb

@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.0\05. Dragon Army.deps.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.0\05. Dragon Army.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.0\05. Dragon Army.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.0\05. Dragon Army.dll
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\bin\Debug\netcoreapp2.0\05. Dragon Army.pdb
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.0\05. Dragon Army.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.0\05. Dragon Army.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.0\05. Dragon Army.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.0\05. Dragon Army.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.0\05. Dragon Army.dll
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - More Exercise\05. Dragon Army\obj\Debug\netcoreapp2.0\05. Dragon Army.pdb

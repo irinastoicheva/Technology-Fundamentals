@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.deps.json
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.dll
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.pdb
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.dll
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.pdb

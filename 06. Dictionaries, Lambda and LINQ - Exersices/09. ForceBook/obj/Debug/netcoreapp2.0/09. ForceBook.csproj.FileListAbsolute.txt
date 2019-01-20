@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.deps.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.dll
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\bin\Debug\netcoreapp2.0\09. ForceBook.pdb
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.dll
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\09. ForceBook\obj\Debug\netcoreapp2.0\09. ForceBook.pdb

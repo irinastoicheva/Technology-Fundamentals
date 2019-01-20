@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.deps.json
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.dll
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.0\01. Sign of Integer Numbers.pdb
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.dll
+D:\softuni\Programming Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.0\01. Sign of Integer Numbers.pdb

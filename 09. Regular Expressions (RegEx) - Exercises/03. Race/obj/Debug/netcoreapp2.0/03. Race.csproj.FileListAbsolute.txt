@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\bin\Debug\netcoreapp2.0\03. Race.deps.json
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\bin\Debug\netcoreapp2.0\03. Race.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\bin\Debug\netcoreapp2.0\03. Race.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\bin\Debug\netcoreapp2.0\03. Race.dll
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\bin\Debug\netcoreapp2.0\03. Race.pdb
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\obj\Debug\netcoreapp2.0\03. Race.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\obj\Debug\netcoreapp2.0\03. Race.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\obj\Debug\netcoreapp2.0\03. Race.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\obj\Debug\netcoreapp2.0\03. Race.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\obj\Debug\netcoreapp2.0\03. Race.dll
+D:\softuni\Programming Fundamentals\Regular Expressions (RegEx) - Exercises\03. Race\obj\Debug\netcoreapp2.0\03. Race.pdb

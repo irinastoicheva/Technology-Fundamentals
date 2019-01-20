@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.deps.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.dll
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\bin\Debug\netcoreapp2.0\10. SoftUni Exam Results.pdb
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.dll
+D:\softuni\Programming Fundamentals\Dictionaries, Lambda and LINQ - Exersices\10. SoftUni Exam Results\obj\Debug\netcoreapp2.0\10. SoftUni Exam Results.pdb

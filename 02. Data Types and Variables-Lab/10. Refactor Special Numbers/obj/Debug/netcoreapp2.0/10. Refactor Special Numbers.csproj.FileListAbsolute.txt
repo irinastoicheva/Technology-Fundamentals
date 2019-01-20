@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\bin\Debug\netcoreapp2.0\10. Refactor Special Numbers.deps.json
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\bin\Debug\netcoreapp2.0\10. Refactor Special Numbers.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\bin\Debug\netcoreapp2.0\10. Refactor Special Numbers.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\bin\Debug\netcoreapp2.0\10. Refactor Special Numbers.dll
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\bin\Debug\netcoreapp2.0\10. Refactor Special Numbers.pdb
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\obj\Debug\netcoreapp2.0\10. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\obj\Debug\netcoreapp2.0\10. Refactor Special Numbers.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\obj\Debug\netcoreapp2.0\10. Refactor Special Numbers.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\obj\Debug\netcoreapp2.0\10. Refactor Special Numbers.dll
+D:\softuni\Programming Fundamentals\Data Types and Variables-Lab\10. Refactor Special Numbers\obj\Debug\netcoreapp2.0\10. Refactor Special Numbers.pdb

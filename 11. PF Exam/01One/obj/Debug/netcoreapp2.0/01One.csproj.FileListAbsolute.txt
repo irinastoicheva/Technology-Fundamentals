@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\PF Exam\01One\bin\Debug\netcoreapp2.0\01One.deps.json
+D:\softuni\Programming Fundamentals\PF Exam\01One\bin\Debug\netcoreapp2.0\01One.runtimeconfig.json
+D:\softuni\Programming Fundamentals\PF Exam\01One\bin\Debug\netcoreapp2.0\01One.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\PF Exam\01One\bin\Debug\netcoreapp2.0\01One.dll
+D:\softuni\Programming Fundamentals\PF Exam\01One\bin\Debug\netcoreapp2.0\01One.pdb
+D:\softuni\Programming Fundamentals\PF Exam\01One\obj\Debug\netcoreapp2.0\01One.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\PF Exam\01One\obj\Debug\netcoreapp2.0\01One.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\PF Exam\01One\obj\Debug\netcoreapp2.0\01One.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\PF Exam\01One\obj\Debug\netcoreapp2.0\01One.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\PF Exam\01One\obj\Debug\netcoreapp2.0\01One.dll
+D:\softuni\Programming Fundamentals\PF Exam\01One\obj\Debug\netcoreapp2.0\01One.pdb

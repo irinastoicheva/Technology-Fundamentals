@@ -1,0 +1,6 @@
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\9. Count the Integers\bin\Debug\_9.Count_the_Integers.exe.config
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\9. Count the Integers\bin\Debug\_9.Count_the_Integers.exe
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\9. Count the Integers\bin\Debug\_9.Count_the_Integers.pdb
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\9. Count the Integers\obj\Debug\9. Count the Integers.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\9. Count the Integers\obj\Debug\_9.Count_the_Integers.exe
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\9. Count the Integers\obj\Debug\_9.Count_the_Integers.pdb

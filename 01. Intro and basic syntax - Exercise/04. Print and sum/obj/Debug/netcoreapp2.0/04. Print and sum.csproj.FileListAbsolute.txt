@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.deps.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.dll
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp2.0\04. Print and sum.pdb
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.dll
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp2.0\04. Print and sum.pdb

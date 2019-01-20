@@ -1,0 +1,13 @@
+﻿@model List<CalculatorApp.Models.Calculator>
+@{
+    ViewData["Title"] = "History";
+}
+
+<h2>History</h2>
+@foreach (CalculatorApp.Models.Calculator item in Model)
+{
+        <div>
+            @item.LeftOperand @item.Operator @item.RightOperand = @item.Result
+        </div>
+}
+

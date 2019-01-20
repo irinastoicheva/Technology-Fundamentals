@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.0\02. Repeat Strings.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.0\02. Repeat Strings.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.0\02. Repeat Strings.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.0\02. Repeat Strings.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.0\02. Repeat Strings.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.0\02. Repeat Strings.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.0\02. Repeat Strings.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.0\02. Repeat Strings.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.0\02. Repeat Strings.pdb

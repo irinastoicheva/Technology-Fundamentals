@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.0\06. Replace Repeating Chars.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.0\06. Replace Repeating Chars.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.0\06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.0\06. Replace Repeating Chars.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.0\06. Replace Repeating Chars.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.0\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.0\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.0\06. Replace Repeating Chars.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.0\06. Replace Repeating Chars.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.0\06. Replace Repeating Chars.pdb

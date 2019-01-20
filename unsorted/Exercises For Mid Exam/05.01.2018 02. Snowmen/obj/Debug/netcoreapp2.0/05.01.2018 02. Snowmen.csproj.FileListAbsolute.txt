@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\bin\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.deps.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\bin\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\bin\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\bin\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.dll
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\bin\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.pdb
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\obj\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\obj\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\obj\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\obj\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\obj\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.dll
+D:\softuni\Programming Fundamentals\Exercises For Mid Exam\05.01.2018 02. Snowmen\obj\Debug\netcoreapp2.0\05.01.2018 02. Snowmen.pdb

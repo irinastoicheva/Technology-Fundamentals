@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.deps.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.dll
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\netcoreapp2.0\06. Strong number.pdb
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.dll
+D:\softuni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\netcoreapp2.0\06. Strong number.pdb

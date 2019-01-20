@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp2.0\03. Extract File.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp2.0\03. Extract File.pdb

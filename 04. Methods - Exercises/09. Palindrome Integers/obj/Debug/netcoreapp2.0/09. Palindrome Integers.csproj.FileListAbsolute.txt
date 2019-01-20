@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.deps.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.dll
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.0\09. Palindrome Integers.pdb
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.dll
+D:\softuni\Programming Fundamentals\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.0\09. Palindrome Integers.pdb

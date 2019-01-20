@@ -1,0 +1,10 @@
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\bin\Debug\netcoreapp2.0\03. Exchange Integers.deps.json
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\bin\Debug\netcoreapp2.0\03. Exchange Integers.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\bin\Debug\netcoreapp2.0\03. Exchange Integers.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\bin\Debug\netcoreapp2.0\03. Exchange Integers.dll
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\bin\Debug\netcoreapp2.0\03. Exchange Integers.pdb
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\obj\Debug\netcoreapp2.0\03. Exchange Integers.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\obj\Debug\netcoreapp2.0\03. Exchange Integers.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\obj\Debug\netcoreapp2.0\03. Exchange Integers.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\obj\Debug\netcoreapp2.0\03. Exchange Integers.dll
+D:\softuni\Programming Fundamentals\Data Types and Variables - More Exercises\03. Exchange Integers\obj\Debug\netcoreapp2.0\03. Exchange Integers.pdb

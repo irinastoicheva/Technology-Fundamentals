@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.0\04. Students.deps.json
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.0\04. Students.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.0\04. Students.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.0\04. Students.dll
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp2.0\04. Students.pdb
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.0\04. Students.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.0\04. Students.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.0\04. Students.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.0\04. Students.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.0\04. Students.dll
+D:\softuni\Programming Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp2.0\04. Students.pdb

@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.0\02. Pascal Triangle.deps.json
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.0\02. Pascal Triangle.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.0\02. Pascal Triangle.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.0\02. Pascal Triangle.dll
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.0\02. Pascal Triangle.pdb
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.0\02. Pascal Triangle.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.0\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.0\02. Pascal Triangle.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.0\02. Pascal Triangle.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.0\02. Pascal Triangle.dll
+D:\softuni\Programming Fundamentals\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.0\02. Pascal Triangle.pdb

@@ -1,0 +1,11 @@
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.deps.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.runtimeconfig.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.runtimeconfig.dev.json
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp2.0\04. Morse Code Translator.pdb
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.AssemblyInfoInputs.cache
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.AssemblyInfo.cs
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.dll
+D:\softuni\Programming Fundamentals\Strings and Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp2.0\04. Morse Code Translator.pdb

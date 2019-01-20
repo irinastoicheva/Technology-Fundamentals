@@ -1,0 +1,11 @@
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\bin\Debug\netcoreapp2.1\P02.deps.json
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\bin\Debug\netcoreapp2.1\P02.runtimeconfig.json
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\bin\Debug\netcoreapp2.1\P02.runtimeconfig.dev.json
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\bin\Debug\netcoreapp2.1\P02.dll
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\bin\Debug\netcoreapp2.1\P02.pdb
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\obj\Debug\netcoreapp2.1\P02.csprojAssemblyReference.cache
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\obj\Debug\netcoreapp2.1\P02.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\obj\Debug\netcoreapp2.1\P02.AssemblyInfoInputs.cache
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\obj\Debug\netcoreapp2.1\P02.AssemblyInfo.cs
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\obj\Debug\netcoreapp2.1\P02.dll
+D:\SoftUni\Technology-Fundamentals\DemoFinalExam\P02\obj\Debug\netcoreapp2.1\P02.pdb

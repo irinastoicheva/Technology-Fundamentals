@@ -1,0 +1,6 @@
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\12. Test Numbers\obj\Debug\12. Test Numbers.csprojResolveAssemblyReference.cache
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
+D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb

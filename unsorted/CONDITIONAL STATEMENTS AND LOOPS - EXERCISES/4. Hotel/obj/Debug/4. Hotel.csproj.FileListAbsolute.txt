@@ -1,6 +1,0 @@
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\4. Hotel\bin\Debug\_4.Hotel.exe.config
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\4. Hotel\bin\Debug\_4.Hotel.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\4. Hotel\bin\Debug\_4.Hotel.pdb
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\4. Hotel\obj\Debug\4. Hotel.csprojResolveAssemblyReference.cache
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\4. Hotel\obj\Debug\_4.Hotel.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\4. Hotel\obj\Debug\_4.Hotel.pdb

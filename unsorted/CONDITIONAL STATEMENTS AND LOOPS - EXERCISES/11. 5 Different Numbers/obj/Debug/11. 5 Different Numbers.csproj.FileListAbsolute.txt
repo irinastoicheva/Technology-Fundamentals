@@ -1,6 +1,0 @@
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.exe.config
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.pdb
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.csprojResolveAssemblyReference.cache
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.pdb

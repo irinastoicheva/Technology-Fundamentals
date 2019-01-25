@@ -1,6 +1,0 @@
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\Conditional Statements and Loops - Lab.exe.config
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\Conditional Statements and Loops - Lab.exe
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\Conditional Statements and Loops - Lab.pdb
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\1. Passed.csprojResolveAssemblyReference.cache
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\Conditional Statements and Loops - Lab.exe
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\Conditional Statements and Loops - Lab.pdb

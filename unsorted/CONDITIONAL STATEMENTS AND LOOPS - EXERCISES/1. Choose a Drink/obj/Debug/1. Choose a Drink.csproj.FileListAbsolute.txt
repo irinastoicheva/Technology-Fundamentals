@@ -1,6 +1,0 @@
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\1. Choose a Drink\bin\Debug\_1.Choose_a_Drink.exe.config
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\1. Choose a Drink\bin\Debug\_1.Choose_a_Drink.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\1. Choose a Drink\bin\Debug\_1.Choose_a_Drink.pdb
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\1. Choose a Drink\obj\Debug\1. Choose a Drink.csprojResolveAssemblyReference.cache
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\1. Choose a Drink\obj\Debug\_1.Choose_a_Drink.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\1. Choose a Drink\obj\Debug\_1.Choose_a_Drink.pdb

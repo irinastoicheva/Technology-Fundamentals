@@ -1,6 +1,0 @@
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\1. Debit Card Number\1. Debit Card Number\bin\Debug\_1.Debit_Card_Number.exe.config
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\1. Debit Card Number\1. Debit Card Number\bin\Debug\_1.Debit_Card_Number.exe
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\1. Debit Card Number\1. Debit Card Number\bin\Debug\_1.Debit_Card_Number.pdb
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\1. Debit Card Number\1. Debit Card Number\obj\Debug\1. Debit Card Number.csprojResolveAssemblyReference.cache
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\1. Debit Card Number\1. Debit Card Number\obj\Debug\_1.Debit_Card_Number.exe
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\1. Debit Card Number\1. Debit Card Number\obj\Debug\_1.Debit_Card_Number.pdb

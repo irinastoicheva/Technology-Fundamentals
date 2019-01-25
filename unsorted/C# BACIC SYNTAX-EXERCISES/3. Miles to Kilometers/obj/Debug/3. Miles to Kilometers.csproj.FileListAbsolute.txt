@@ -1,1 +1,0 @@
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\3. Miles to Kilometers\bin\Debug\_3.Miles_to_Kilometers.exe.config

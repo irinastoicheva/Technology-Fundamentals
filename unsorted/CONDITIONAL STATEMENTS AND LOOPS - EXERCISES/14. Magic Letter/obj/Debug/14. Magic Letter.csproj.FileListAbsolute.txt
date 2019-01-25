@@ -1,6 +1,0 @@
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe.config
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\14. Magic Letter\bin\Debug\_14.Magic_Letter.pdb
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\14. Magic Letter\obj\Debug\14. Magic Letter.csprojResolveAssemblyReference.cache
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\14. Magic Letter\obj\Debug\_14.Magic_Letter.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\14. Magic Letter\obj\Debug\_14.Magic_Letter.pdb

@@ -1,1 +1,0 @@
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\Conditional Statements and Loops - Lab.exe.config

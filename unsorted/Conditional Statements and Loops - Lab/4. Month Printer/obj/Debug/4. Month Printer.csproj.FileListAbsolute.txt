@@ -1,1 +1,0 @@
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\4. Month Printer\bin\Debug\_4.Month_Printer.exe.config

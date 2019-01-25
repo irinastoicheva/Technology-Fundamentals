@@ -1,6 +1,0 @@
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.exe.config
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.exe
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.pdb
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\4. Beverage Labels\obj\Debug\4. Beverage Labels.csprojResolveAssemblyReference.cache
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\4. Beverage Labels\obj\Debug\_4.Beverage_Labels.exe
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\4. Beverage Labels\obj\Debug\_4.Beverage_Labels.pdb

@@ -1,5 +1,0 @@
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\8. Sum of Odd Numbers\bin\Debug\_8.Sum_of_Odd_Numbers.exe.config
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\8. Sum of Odd Numbers\bin\Debug\_8.Sum_of_Odd_Numbers.exe
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\8. Sum of Odd Numbers\bin\Debug\_8.Sum_of_Odd_Numbers.pdb
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\8. Sum of Odd Numbers\obj\Debug\_8.Sum_of_Odd_Numbers.exe
-D:\softuni\Programming Fundamentals\Conditional Statements and Loops - Lab\8. Sum of Odd Numbers\obj\Debug\_8.Sum_of_Odd_Numbers.pdb

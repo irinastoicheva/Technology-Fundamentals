@@ -1,5 +1,0 @@
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\7. Cake Ingredients\bin\Debug\_7.Cake_Ingredients.exe.config
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\7. Cake Ingredients\bin\Debug\_7.Cake_Ingredients.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\7. Cake Ingredients\bin\Debug\_7.Cake_Ingredients.pdb
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\7. Cake Ingredients\obj\Debug\_7.Cake_Ingredients.exe
-D:\softuni\Programming Fundamentals\CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\ConsoleApplication1\7. Cake Ingredients\obj\Debug\_7.Cake_Ingredients.pdb

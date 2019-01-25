@@ -1,6 +1,0 @@
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\5. Character Stats\bin\Debug\_5.Character_Stats.exe.config
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\5. Character Stats\bin\Debug\_5.Character_Stats.exe
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\5. Character Stats\bin\Debug\_5.Character_Stats.pdb
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\5. Character Stats\obj\Debug\5. Character Stats.csprojResolveAssemblyReference.cache
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\5. Character Stats\obj\Debug\_5.Character_Stats.exe
-D:\softuni\Programming Fundamentals\C# BACIC SYNTAX-EXERCISES\5. Character Stats\obj\Debug\_5.Character_Stats.pdb
